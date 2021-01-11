@@ -1,7 +1,7 @@
 from random import randint
 
 
-censored_words = ["shit", "sh!t", "twat"]
+censored_words = ["blah", "blah blah", "player", "unknown"]
 
 class Character:
     #character object
